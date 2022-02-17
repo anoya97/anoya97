@@ -1,4 +1,4 @@
-# ¡Hey! I´m Armando Noya 👋 
+# ¡Hey! I'm Armando Noya 👋 
 
 Soy un estudiante de Ingeniería Informática en la Universidad de A Coruña, actualmente trabajando como Técnico de Sistemas de Telecomunicaciones.
 
