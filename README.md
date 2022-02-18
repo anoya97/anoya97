@@ -10,5 +10,10 @@ I'm a 23 years old Computer Science student at the University of A Coruña, curr
 - [Workflow Instagram](https://www.instagram.com/an__3d/)
 
 
+## Apps that I Use:
 
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Photoshop.png"></code>
 
+           
