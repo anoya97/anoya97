@@ -9,13 +9,23 @@ I'm a 23 years old Computer Science student at the University of A Coruña, curr
 - [Personal Instagram](https://www.instagram.com/anoya97/)
 - [Workflow Instagram](https://www.instagram.com/an__3d/)
 
+## Languages:
+
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/C.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ocml.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Octave.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/R.png"></code>
+
 
 ## Apps that I Use:
 
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Visual.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Photoshop.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/dropbox.png"></code>
+
+
 
            
