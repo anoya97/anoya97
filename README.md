@@ -32,7 +32,7 @@ I'm a 23 years old Computer Science student at the University of A Coruña, curr
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/dropbox.png"></code>](https://www.dropbox.com/business/landing-t61fl?_tk=paid_sem_goog_biz_b&_camp=16015479502&_kw=dropbox|e&_ad=515974508130||c&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KF56DXpjGEdNyAPY4UIAK_gwW_O6l9XKhYaDyxaSckyQ-yTYUIh_WAaAhOEEALw_wcB)
 
 
-## Lenguages:
+## Languages:
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/esp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png"></code>
 
