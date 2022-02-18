@@ -11,13 +11,13 @@ I'm a 23 years old Computer Science student at the University of A Coruña, curr
 
 ## Languages:
 
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/C.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Javaa.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ccc.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/javaaa.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ocml.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Octave.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/RR.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sqlll.png"></code>
 
 
 
