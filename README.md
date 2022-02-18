@@ -23,13 +23,13 @@ I'm a 23 years old Computer Science student at the University of A Coruña, curr
 
 ## Apps that I Use:
 
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>]
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/cl.png"></code>]
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/vscode.png"></code>]
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sub.png"></code>]
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Packet Tracer.png"></code>]
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Photoshop.png"></code>]
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/dropbox.png"></code>]
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>](https://www.jetbrains.com/es-es/idea/download/#section=mac)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/cl.png"></code>](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960748608&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KEbcZseC-Cc5svP1c2Yg-sULADbh2nJHQ-t-WY-CB1s7LC-VKPrKcoaAvfNEALw_wcB)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/vscode.png"></code>](https://visualstudio.microsoft.com/es/downloads/)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sub.png"></code>](https://www.sublimetext.com/)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Packet Tracer.png"></code>](https://www.netacad.com/es/courses/packet-tracer)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Photoshop.png"></code>](https://www.adobe.com/es/products/photoshop/landpb.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQiApL2QBhC8ARIsAGMm-KHtC-zt78cLXBn4GxAwORjffg9Tj5FIGthM57FFgT_xZ8M8sW1_3UIaAkrAEALw_wcB:G:s&s_kwcid=AL!3085!3!340859178374!e!!g!!photoshop!1445901735!56657232416&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KHtC-zt78cLXBn4GxAwORjffg9Tj5FIGthM57FFgT_xZ8M8sW1_3UIaAkrAEALw_wcB)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/dropbox.png"></code>](https://www.dropbox.com/business/landing-t61fl?_tk=paid_sem_goog_biz_b&_camp=16015479502&_kw=dropbox|e&_ad=515974508130||c&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KF56DXpjGEdNyAPY4UIAK_gwW_O6l9XKhYaDyxaSckyQ-yTYUIh_WAaAhOEEALw_wcB)
 
 
 
