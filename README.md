@@ -24,9 +24,9 @@ I'm a 23 years old Computer Science student at the University of A Coruña, curr
 ## Apps that I Use:
 
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/png-transparent-clion-hd-logo.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/cl.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Visual.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/logo-sublime.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sub.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Packet Tracer.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Photoshop.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/dropbox.png"></code>
