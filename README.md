@@ -12,24 +12,24 @@ I'm a 23 years old Computer Science student at the University of A Coruña, curr
 ## Languages:
 
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ccc.png"></code>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/javaaa.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ocml.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Octave.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/RR.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sqlll.png"></code>
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/javaaa.png"></code>](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Html.png"></code>](https://es.wikipedia.org/wiki/HTML)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ocml.png"></code>](https://es.wikipedia.org/wiki/Caml)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Octave.png"></code>](https://es.wikipedia.org/wiki/GNU_Octave)
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/RR.png"></code>](https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n))
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sqlll.png"></code>](https://es.wikipedia.org/wiki/SQL)
 
 
 
 ## Apps that I Use:
 
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/cl.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/vscode.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sub.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Packet Tracer.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Photoshop.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/dropbox.png"></code>
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>]
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/cl.png"></code>]
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/vscode.png"></code>]
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sub.png"></code>]
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Packet Tracer.png"></code>]
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Photoshop.png"></code>]
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/dropbox.png"></code>]
 
 
 
