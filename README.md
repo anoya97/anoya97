@@ -17,7 +17,7 @@ I'm a 23 years old Computer Science student at the University of A Coruña, curr
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ocml.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Octave.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/R.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg"></code>
 
 
 
