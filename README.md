@@ -11,7 +11,7 @@ I'm a 23 years old Computer Science student at the University of A Coruña, curr
 
 ## Languages:
 
-<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ccc.png"></code>
+[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ccc.png"></code>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/javaaa.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ocml.png"></code>
