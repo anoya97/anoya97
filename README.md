@@ -2,10 +2,11 @@
 
 I'm a 24-year-old Computer Science student at the University of A Coruña, currently working as an IT Support Specialist at Hispatel Soluciones SLU.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoya97&show_icons=true&theme=radical) 
 
+<img src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/hello.gif" width="250" height="195">  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoya97&show_icons=true&theme=radical) 
+ <img src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/hello.gif" width="250" height="195">
 
-
+## Find me here:
 - [LinkedIn](https://www.linkedin.com/in/armando-noya-651334185/)
 - <a href="mailto:anoya03@gmail.com">Mail</a>
 - [Personal Instagram](https://www.instagram.com/anoya97/)
