@@ -36,5 +36,5 @@ I'm a 24-year-old Computer Science student at the University of A Coruña, curre
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/esp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png"></code>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoya97&show_icons=true&theme=radical)
            
