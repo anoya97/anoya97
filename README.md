@@ -1,6 +1,6 @@
 # ¡Hey! I'm Armando Noya 👋 
 
-I'm a 24-year-old Computer Science student at the University of A Coruña, 
+I'm a 25-year-old Computer Science student at the University of A Coruña, 
 currently working as an IT Support Specialist at Hispatel Soluciones SLU.
 
 
