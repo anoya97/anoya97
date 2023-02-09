@@ -1,7 +1,7 @@
 # ¡Hey! I'm Armando Noya 👋 
 
 I'm a 25-year-old Computer Science student at the University of A Coruña, 
-currently working as an IT Support Specialist at Hispatel Soluciones SLU.
+currently working as an IT Support Specialist at Plexus Tech.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoya97&show_icons=true&theme=radical) 
