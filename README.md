@@ -45,7 +45,7 @@
 
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/anoya97/anoya97/blob/main/Img/grid-snake2.svg"
        alt="snake" /></a>
 </div>
 
