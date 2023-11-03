@@ -32,12 +32,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/esp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png"></code>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/anoya03)
-
 <div align="center">
   <img  src="https://novatorem.bgstatic.vercel.app/api/spotify"/></a>
 </div>
-
 
 <div align="center">
   <img  src="https://github.com/anoya97/anoya97/blob/main/Img/grid-snake2.svg"
