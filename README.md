@@ -1,14 +1,16 @@
-# ¡Hey! I'm Armando Noya 👋 
-
-I'm a 25-year-old Computer Science student at the University of A Coruña, 
-currently working as an IT Support Specialist at Plexus Tech.
+<h1 align="center"> ¡Hey! I'm Armando Noya 👋 </h1>
 
 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoya97&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoya97&layout=compact&theme=radical"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=26&duration=5500&pause=1000&color=221DF7&center=true&vCenter=true&random=false&width=550&lines=I'm+a+26-year-old+Computer+Science+student;Working+as+an+IT+Support+at+Plexus+Tech"/>
+</p>
+
+
+
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoya97&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoya97&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </div>
-
 
 ## Find me here:
 - [LinkedIn](https://www.linkedin.com/in/armando-noya-651334185/)
@@ -26,8 +28,6 @@ currently working as an IT Support Specialist at Plexus Tech.
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/RR.png"></code>](https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n))
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sqlll.png"></code>](https://es.wikipedia.org/wiki/SQL)
 
-
-
 ## Apps that I Use:
 
 [<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>](https://www.jetbrains.com/es-es/idea/download/#section=mac)
@@ -44,5 +44,9 @@ currently working as an IT Support Specialist at Plexus Tech.
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png"></code>
 
 
-           
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
      
