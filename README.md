@@ -13,10 +13,9 @@
 </div>
 
 ## Find me here:
-- [LinkedIn](https://www.linkedin.com/in/armando-noya-651334185/)
-- <a href="mailto:anoya03@gmail.com">Mail</a>
-- [Personal Instagram](https://www.instagram.com/anoya97/)
-- [Workflow Instagram](https://www.instagram.com/an__3d/)
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-noya-651334185/)
+[![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=anoya03&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/anoya03#1085)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/anoya97)
 
 ## Programming languages:
 
