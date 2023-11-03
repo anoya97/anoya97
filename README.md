@@ -4,8 +4,11 @@ I'm a 25-year-old Computer Science student at the University of A Coruña,
 currently working as an IT Support Specialist at Plexus Tech.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoya97&show_icons=true&theme=radical) 
- 
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoya97&show_icons=true&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoya97&layout=compact&theme=radical"/>
+</div>
+
 
 ## Find me here:
 - [LinkedIn](https://www.linkedin.com/in/armando-noya-651334185/)
