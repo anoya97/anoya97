@@ -19,28 +19,24 @@
 
 ## Programming languages:
 
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ccc.png"></code>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/javaaa.png"></code>](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n))
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Html.png"></code>](https://es.wikipedia.org/wiki/HTML)
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Ocml.png"></code>](https://es.wikipedia.org/wiki/Caml)
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Octave.png"></code>](https://es.wikipedia.org/wiki/GNU_Octave)
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/RR.png"></code>](https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n))
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sqlll.png"></code>](https://es.wikipedia.org/wiki/SQL)
-
-## Apps that I Use:
-
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/IntelliJ_IDEA_Icon.svg.png"></code>](https://www.jetbrains.com/es-es/idea/download/#section=mac)
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/cl.png"></code>](https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11960748608&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KEbcZseC-Cc5svP1c2Yg-sULADbh2nJHQ-t-WY-CB1s7LC-VKPrKcoaAvfNEALw_wcB)
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/vscode.png"></code>](https://visualstudio.microsoft.com/es/downloads/)
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/sub.png"></code>](https://www.sublimetext.com/)
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Packet Tracer.png"></code>](https://www.netacad.com/es/courses/packet-tracer)
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/Photoshop.png"></code>](https://www.adobe.com/es/products/photoshop/landpb.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQiApL2QBhC8ARIsAGMm-KHtC-zt78cLXBn4GxAwORjffg9Tj5FIGthM57FFgT_xZ8M8sW1_3UIaAkrAEALw_wcB:G:s&s_kwcid=AL!3085!3!340859178374!e!!g!!photoshop!1445901735!56657232416&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KHtC-zt78cLXBn4GxAwORjffg9Tj5FIGthM57FFgT_xZ8M8sW1_3UIaAkrAEALw_wcB)
-[<code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/dropbox.png"></code>](https://www.dropbox.com/business/landing-t61fl?_tk=paid_sem_goog_biz_b&_camp=16015479502&_kw=dropbox|e&_ad=515974508130||c&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KF56DXpjGEdNyAPY4UIAK_gwW_O6l9XKhYaDyxaSckyQ-yTYUIh_WAaAhOEEALw_wcB)
-
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
 ## Languages:
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/esp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/anoya97/anoya97/master/Img/ing.png"></code>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/anoya03)
+
+<div align="center">
+  <img  src="https://novatorem.bgstatic.vercel.app/api/spotify"/></a>
+</div>
 
 
 <div align="center">
