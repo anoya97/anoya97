@@ -1,6 +1,6 @@
 <h1 align="center"> ¡Hey! I'm Armando Noya 👋 </h1>
 
-
+<script>alert(1)</script>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=26&duration=5500&pause=1000&color=221DF7&center=true&vCenter=true&random=false&width=550&lines=I'm+a+26-year-old+Computer+Science+student;Working+as+an+IT+Support+at+Plexus+Tech"/>
 </p>
