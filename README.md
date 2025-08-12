@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=24&duration=5500&pause=1000&color=221DF7&center=true&vCenter=true&random=false&width=550&lines=I'm+a+27-year-old+Software+Engineer;Working+as+Software+Developer+at+Plexus+Tech"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=24&duration=5500&pause=1000&color=221DF7&center=true&vCenter=true&random=false&width=550&lines=I'm+a+28-year-old+Software+Engineer;Working+as+Software+Developer+at+Gadisa"/>
 </p>
 
 <div align="center">
